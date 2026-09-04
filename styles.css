@@ -7,3 +7,7 @@
 body {
   background-color: blue;
 }
+
+.card {
+  font-size: 2rem;
+}
